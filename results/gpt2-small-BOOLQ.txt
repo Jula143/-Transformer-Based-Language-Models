@@ -1,0 +1,401 @@
+Question: does ethanol take more energy make that produces
+Generated Answer: yes
+True Answer: no
+
+Question: is house tax and property tax are same
+Generated Answer: no
+True Answer: yes
+
+Question: is pain experienced in a missing body part or paralyzed area
+Generated Answer: yes
+True Answer: yes
+
+Question: is harry potter and the escape from gringotts a roller coaster ride
+Generated Answer: yes
+True Answer: yes
+
+Question: is there a difference between hydroxyzine hcl and hydroxyzine pam
+Generated Answer: yes
+True Answer: yes
+
+Question: is barq's root beer a pepsi product
+Generated Answer: yes
+True Answer: no
+
+Question: can an odd number be divided by an even number
+Generated Answer: yes
+True Answer: yes
+
+Question: is there a word with q without u
+Generated Answer: yes
+True Answer: yes
+
+Question: can u drive in canada with us license
+Generated Answer: yes
+True Answer: yes
+
+Question: is there a play off for third place in the world cup
+Generated Answer: yes
+True Answer: yes
+
+Question: can minors drink with parents in new york
+Generated Answer: yes
+True Answer: yes
+
+Question: is the show bloodline based on a true story
+Generated Answer: yes
+True Answer: no
+
+Question: is it bad to wash your hair with shower gel
+Generated Answer: yes
+True Answer: yes
+
+Question: is the liver part of the excretory system
+Generated Answer: yes
+True Answer: yes
+
+Question: is fantastic beasts and where to find them a prequel
+Generated Answer: yes
+True Answer: yes
+
+Question: will there be a season 8 of vampire diaries
+Generated Answer: yes
+True Answer: yes
+
+Question: was the movie strangers based on a true story
+Generated Answer: yes
+True Answer: yes
+
+Question: is durham university part of the russell group
+Generated Answer: yes
+True Answer: yes
+
+Question: is the tv show the resident over for the season
+Generated Answer: yes
+True Answer: yes
+
+Question: does magnesium citrate have citric acid in it
+Generated Answer: yes
+True Answer: yes
+
+Question: does p o box come before street address
+Generated Answer: yes
+True Answer: no
+
+Question: does a spark plug keep an engine running
+Generated Answer: yes
+True Answer: yes
+
+Question: is a cape and a cloak the same
+Generated Answer: no
+True Answer: yes
+
+Question: does it cost money to renounce us citizenship
+Generated Answer: yes
+True Answer: yes
+
+Question: is a fire 7 the same as a kindle
+Generated Answer: yes
+True Answer: yes
+
+Question: can you drink alcohol with your parents in wisconsin
+Generated Answer: yes
+True Answer: yes
+
+Question: do penguins have feathers arising from the epidermis
+Generated Answer: yes
+True Answer: yes
+
+Question: do you need to break in a car
+Generated Answer: yes
+True Answer: no
+
+Question: is the enchanted forest in oregon still open
+Generated Answer: yes
+True Answer: yes
+
+Question: is there a golf course at the indy 500
+Generated Answer: yes
+True Answer: yes
+
+Question: does deadpool have a kid in the comics
+Generated Answer: yes
+True Answer: yes
+
+Question: do they still make benson & hedges cigarettes
+Generated Answer: yes
+True Answer: yes
+
+Question: is federal income tax the same as social security
+Generated Answer: no
+True Answer: no
+
+Question: is an engine speed sensor the same as a crankshaft sensor
+Generated Answer: yes
+True Answer: yes
+
+Question: is indiana jones temple of doom a prequel
+Generated Answer: yes
+True Answer: yes
+
+Question: is there any next part of avengers infinity war
+Generated Answer: yes
+True Answer: yes
+
+Question: is the toyota highlander on a truck frame
+Generated Answer: yes
+True Answer: no
+
+Question: is it legal to do a cover of a song
+Generated Answer: yes
+True Answer: yes
+
+Question: can carbon form polar covalent bonds with hydrogen
+Generated Answer: yes
+True Answer: no
+
+Question: is there a sequel to the movie the golden compass
+Generated Answer: yes
+True Answer: no
+
+Question: is columbus day a national holiday in the united states
+Generated Answer: yes
+True Answer: yes
+
+Question: are new balance and nike the same company
+Generated Answer: yes
+True Answer: no
+
+Question: is there an interstate that goes coast to coast
+Generated Answer: yes
+True Answer: yes
+
+Question: is pureed tomatoes the same as tomato sauce
+Generated Answer: no
+True Answer: no
+
+Question: can there be a word without a vowel
+Generated Answer: yes
+True Answer: yes
+
+Question: does only the winner get money on tipping point
+Generated Answer: yes
+True Answer: yes
+
+Question: is there such a thing as a turkey vulture
+Generated Answer: yes
+True Answer: yes
+
+Question: has anyone hit a hole in one on a par 5
+Generated Answer: yes
+True Answer: yes
+
+Question: do the jets and giants share a stadium
+Generated Answer: yes
+True Answer: yes
+
+Question: is the us womens soccer team in the world cup
+Generated Answer: yes
+True Answer: yes
+
+Question: can an african team win the world cup
+Generated Answer: yes
+True Answer: yes
+
+Question: can a hammer be used as a weapon
+Generated Answer: yes
+True Answer: yes
+
+Question: do they still have fox hunts in england
+Generated Answer: yes
+True Answer: no
+
+Question: can you wear short sleeve shirt with asu jacket
+Generated Answer: yes
+True Answer: yes
+
+Question: has wisconsin ever been in the little league world series
+Generated Answer: yes
+True Answer: no
+
+Question: does damon and elena get together in season 3
+Generated Answer: yes
+True Answer: no
+
+Question: is there a player in the nfl missing a hand
+Generated Answer: yes
+True Answer: yes
+
+Question: is the other boleyn girl part of a series
+Generated Answer: yes
+True Answer: yes
+
+Question: is there a group called the five heartbeats
+Generated Answer: yes
+True Answer: no
+
+Question: is mount everest a part of the himalayas
+Generated Answer: yes
+True Answer: yes
+
+Question: can an emt-basic start an iv
+Generated Answer: yes
+True Answer: no
+
+Question: has no 1 court at wimbledon got a roof
+Generated Answer: yes
+True Answer: no
+
+Question: has anyone come back from 3-0 in the nba finals
+Generated Answer: yes
+True Answer: no
+
+Question: do radio waves travel at the speed of light
+Generated Answer: yes
+True Answer: yes
+
+Question: did anyone from the 1980 us hockey team play in the nhl
+Generated Answer: yes
+True Answer: yes
+
+Question: do all triangles have at least two acute angles
+Generated Answer: no
+True Answer: yes
+
+Question: is baylor and mary hardin baylor the same school
+Generated Answer: yes
+True Answer: yes
+
+Question: can you get the death penalty as a minor
+Generated Answer: yes
+True Answer: no
+
+Question: did indian football team qualified for fifa 2018
+Generated Answer: yes
+True Answer: no
+
+Question: are t rex and tyrannosaurus rex the same
+Generated Answer: yes
+True Answer: yes
+
+Question: is the old panama canal still in use
+Generated Answer: yes
+True Answer: yes
+
+Question: do you need a pal to possess ammunition
+Generated Answer: yes
+True Answer: yes
+
+Question: do blue and pink cotton candy taste the same
+Generated Answer: yes
+True Answer: no
+
+Question: did to kill a mockingbird win an academy award
+Generated Answer: yes
+True Answer: yes
+
+Question: is there such a thing as a floating island
+Generated Answer: yes
+True Answer: yes
+
+Question: do female ferrets die if they don't mate
+Generated Answer: yes
+True Answer: yes
+
+Question: will all xbox 360 games work on xbox one
+Generated Answer: yes
+True Answer: no
+
+Question: is there a right and left brachiocephalic artery
+Generated Answer: yes
+True Answer: no
+
+Question: do the runners up on survivor win money
+Generated Answer: yes
+True Answer: yes
+
+Question: is there a sequel to love finds a home
+Generated Answer: yes
+True Answer: no
+
+Question: will there be a second season of 11.22.63
+Generated Answer: yes
+True Answer: no
+
+Question: are there nuclear power plants in the us
+Generated Answer: yes
+True Answer: yes
+
+Question: is there a tiebreaker in final set at wimbledon
+Generated Answer: yes
+True Answer: no
+
+Question: were the twin towers the world trade center
+Generated Answer: yes
+True Answer: yes
+
+Question: did deion sanders ever win a world series
+Generated Answer: yes
+True Answer: no
+
+Question: is a german shepard the same as an alsatian
+Generated Answer: yes
+True Answer: yes
+
+Question: does a frog jump out of boiling water
+Generated Answer: yes
+True Answer: yes
+
+Question: is it possible to create mass from energy
+Generated Answer: yes
+True Answer: yes
+
+Question: is there a movie with 0 on rotten tomatoes
+Generated Answer: yes
+True Answer: yes
+
+Question: is the jaguar s type rear wheel drive
+Generated Answer: yes
+True Answer: yes
+
+Question: is a tablespoon bigger than a dessert spoon
+Generated Answer: no
+True Answer: yes
+
+Question: is this the last season of bunk'd
+Generated Answer: yes
+True Answer: yes
+
+Question: does the president live in the white house
+Generated Answer: yes
+True Answer: yes
+
+Question: does the dorsal root ganglion carry sensory input
+Generated Answer: yes
+True Answer: yes
+
+Question: is anne with an e filmed on pei
+Generated Answer: yes
+True Answer: yes
+
+Question: is angular frequency and angular velocity the same
+Generated Answer: no
+True Answer: no
+
+Question: can someone die from a bullet shot in the air
+Generated Answer: yes
+True Answer: yes
+
+Question: is salt lake city the biggest city in utah
+Generated Answer: yes
+True Answer: yes
+
+Question: was chasing cars written for grey's anatomy
+Generated Answer: yes
+True Answer: no
+
+Question: did the girl in the lost world die
+Generated Answer: yes
+True Answer: no
+
+Exact Match Score: 69.00%

@@ -1,0 +1,401 @@
+Question: Which NFL team represented the AFC at Super Bowl 50?
+Generated Answer: Denver
+Correct Answer: Denver Broncos
+
+Question: Which NFL team represented the NFC at Super Bowl 50?
+Generated Answer: Denver
+Correct Answer: Carolina Panthers
+
+Question: Where did Super Bowl 50 take place?
+Generated Answer: San Jose
+Correct Answer: Santa Clara, California
+
+Question: Which NFL team won Super Bowl 50?
+Generated Answer: Denver
+Correct Answer: Denver Broncos
+
+Question: What color was used to emphasize the 50th anniversary of the Super Bowl?
+Generated Answer: gold
+Correct Answer: gold
+
+Question: What was the theme of Super Bowl 50?
+Generated Answer: golden anniversary
+Correct Answer: "golden anniversary"
+
+Question: What day was the game played on?
+Generated Answer: February
+Correct Answer: February 7, 2016
+
+Question: What is the AFC short for?
+Generated Answer: National football conference
+Correct Answer: American Football Conference
+
+Question: What was the theme of Super Bowl 50?
+Generated Answer: golden anniversary
+Correct Answer: "golden anniversary"
+
+Question: What does AFC stand for?
+Generated Answer: American Conference
+Correct Answer: American Football Conference
+
+Question: What day was the Super Bowl played on?
+Generated Answer: February
+Correct Answer: February 7, 2016
+
+Question: Who won Super Bowl 50?
+Generated Answer: Denver
+Correct Answer: Denver Broncos
+
+Question: What venue did Super Bowl 50 take place in?
+Generated Answer: Levi, Stadium
+Correct Answer: Levi's Stadium
+
+Question: What city did Super Bowl 50 take place in?
+Generated Answer: San Jose
+Correct Answer: Santa Clara
+
+Question: If Roman numerals were used, what would Super Bowl 50 have been called?
+Generated Answer: 50
+Correct Answer: Super Bowl L
+
+Question: Super Bowl 50 decided the NFL champion for what season?
+Generated Answer: 2015
+Correct Answer: 2015
+
+Question: What year did the Denver Broncos secure a Super Bowl title for the third time?
+Generated Answer: 2015
+Correct Answer: 2015
+
+Question: What city did Super Bowl 50 take place in?
+Generated Answer: San Jose
+Correct Answer: Santa Clara
+
+Question: What stadium did Super Bowl 50 take place in?
+Generated Answer: Santa Monica, CA
+Correct Answer: Levi's Stadium
+
+Question: What was the final score of Super Bowl 50? 
+Generated Answer: 24-10
+Correct Answer: 24–10
+
+Question: What month, day and year did Super Bowl 50 take place? 
+Generated Answer: February
+Correct Answer: February 7, 2016
+
+Question: What year was Super Bowl 50?
+Generated Answer: 2015
+Correct Answer: 2015
+
+Question: What team was the AFC champion?
+Generated Answer: Denver
+Correct Answer: Denver Broncos
+
+Question: What team was the NFC champion?
+Generated Answer: Carolina
+Correct Answer: Carolina Panthers
+
+Question: Who won Super Bowl 50?
+Generated Answer: Denver
+Correct Answer: Denver Broncos
+
+Question: Super Bowl 50 determined the NFL champion for what season?
+Generated Answer: 2015
+Correct Answer: 2015
+
+Question: Which team won Super Bowl 50.
+Generated Answer: Denver
+Correct Answer: Denver Broncos
+
+Question: Where was Super Bowl 50 held?
+Generated Answer: Santa Monica, CA
+Correct Answer: Santa Clara, California.
+
+Question: The name of the NFL championship game is?
+Generated Answer: National Super Football Championship
+Correct Answer: Super Bowl
+
+Question: What 2015 NFL team one the AFC playoff?
+Generated Answer: Denver
+Correct Answer: Denver Broncos
+
+Question: Which Carolina Panthers player was named Most Valuable Player?
+Generated Answer: Cam
+Correct Answer: Cam Newton
+
+Question: How many appearances have the Denver Broncos made in the Super Bowl?
+Generated Answer: eight
+Correct Answer: 8
+
+Question: What year was the Carolina Panthers franchise founded?
+Generated Answer: 1995
+Correct Answer: 1995
+
+Question: What team did the Panthers defeat?
+Generated Answer: Arizona
+Correct Answer: Arizona Cardinals
+
+Question: Who did the Broncos prevent from going to the Super Bowl?
+Generated Answer: New York Giants
+Correct Answer: New England Patriots
+
+Question: Who did the Panthers beat in the NFC Championship Game?
+Generated Answer: Arizona
+Correct Answer: Arizona Cardinals
+
+Question: Who lost to the Broncos in the AFC Championship?
+Generated Answer: New York Giants
+Correct Answer: New England Patriots
+
+Question: Who were the defending Super Bowl champions?
+Generated Answer: New York Giants
+Correct Answer: New England Patriots
+
+Question: How many teams have been in the Super Bowl eight times?
+Generated Answer: four
+Correct Answer: four
+
+Question: Who was this season's NFL MVP?
+Generated Answer: Cam Cam
+Correct Answer: Cam Newton
+
+Question: What was the win/loss ratio in 2015 for the Carolina Panthers during their regular season?
+Generated Answer: 15-1
+Correct Answer: 15–1
+
+Question: Which Carolina Panthers team member was picked as the team's MVP in 2015? 
+Generated Answer: Cam
+Correct Answer: Cam Newton
+
+Question: What were the win/loss game stats for the Denver Bronco's regular season in 2015?
+Generated Answer: 12-4
+Correct Answer: 12–4
+
+Question: How many teams have played in the Super Bowl eight times?
+Generated Answer: four
+Correct Answer: 4
+
+Question: Which team did not get a chance to defend their Super Bowl XLIX win in Super Bowl 50?
+Generated Answer: New York
+Correct Answer: New England Patriots
+
+Question: Who is the quarterback for the Panthers?
+Generated Answer: Cam Cam
+Correct Answer: Cam Newton
+
+Question: Who did Carolina beat in the NFC championship game?
+Generated Answer: Arizona
+Correct Answer: Arizona Cardinals
+
+Question: How many times have the Panthers been in the Super Bowl?
+Generated Answer: eight
+Correct Answer: 2
+
+Question: Who did Denver beat in the AFC championship?
+Generated Answer: New York
+Correct Answer: New England Patriots
+
+Question: Who was the Most Valuable Player for the 2015 NFL season?
+Generated Answer: Cam Cam
+Correct Answer: Cam Newton
+
+Question: Who did Denver beat in the 2015 AFC Championship game?
+Generated Answer: New York Giants
+Correct Answer: New England Patriots
+
+Question: Who did the Carolina Panthers beat in the 2015 NFC Championship game?
+Generated Answer: the Cardinals
+Correct Answer: Arizona Cardinals
+
+Question: Who was the 2015 NFL MVP?
+Generated Answer: Cam Cam
+Correct Answer: Cam Newton
+
+Question: Who did the Panthers beat to become the NFC champs?
+Generated Answer: Arizona
+Correct Answer: Arizona Cardinals
+
+Question: What year did the Carolina Panthers form?
+Generated Answer: 1995
+Correct Answer: 1995.
+
+Question: Who was the Super Bowl 50 MVP?
+Generated Answer: Von Millers
+Correct Answer: Von Miller
+
+Question: How many fumbles did Von Miller force in Super Bowl 50?
+Generated Answer: two
+Correct Answer: 2
+
+Question: Which team held the scoring lead throughout the entire game?
+Generated Answer: Denver
+Correct Answer: Broncos
+
+Question: Which Denver linebacker was named Super Bowl MVP?
+Generated Answer: Von Millers
+Correct Answer: linebacker Von Miller
+
+Question: How many solo tackles did Von Miller make at Super Bowl 50?
+Generated Answer: five
+Correct Answer: five solo tackles
+
+Question: Who was limited by Denver's defense?
+Generated Answer: Tom Brady
+Correct Answer: Newton was limited by Denver's defense
+
+Question: How many times was Cam Newton sacked?
+Generated Answer: seven
+Correct Answer: seven
+
+Question: Who won the Super Bowl MVP?
+Generated Answer: Von "Miller" Miller
+Correct Answer: Von Miller
+
+Question: How many turnovers did Cam Newton have?
+Generated Answer: three
+Correct Answer: three
+
+Question: How many fumbles did Von Miller force?
+Generated Answer: two
+Correct Answer: two
+
+Question: Who was given the esteemed status of MVP for Super Bowl 50?
+Generated Answer: Von Millers
+Correct Answer: Von Miller
+
+Question: What position does Von Miller play for the Denver Broncos?
+Generated Answer: linebacker
+Correct Answer: linebacker
+
+Question: What was the number of solo tackles that Von Miller had in Super Bowl 50?
+Generated Answer: 5
+Correct Answer: 5
+
+Question: How many forced fumbles did Von Miller have during the Super Bowl 50 game?
+Generated Answer: two
+Correct Answer: 2
+
+Question: Who won the MVP for the Super Bowl?
+Generated Answer: Von "Miller" Miller
+Correct Answer: Von Miller
+
+Question: How many tackles did Von Miller get during the game?
+Generated Answer: five
+Correct Answer: 5
+
+Question: How many times was Cam Newton sacked in Super Bowl 50?
+Generated Answer: seven
+Correct Answer: seven
+
+Question: How many times did the Denver defense force Newton into turnovers?
+Generated Answer: seven
+Correct Answer: three
+
+Question: Which Newton turnover resulted in seven points for Denver?
+Generated Answer: fumble
+Correct Answer: a fumble
+
+Question: Who was the Most Valuable Player of Super Bowl 50?
+Generated Answer: Von "Miller" Miller
+Correct Answer: Von Miller
+
+Question: What position does Von Miller play?
+Generated Answer: linebacker
+Correct Answer: linebacker
+
+Question: How many times was the Panthers' quarterback sacked?
+Generated Answer: seven
+Correct Answer: seven
+
+Question: How many times did the Broncos cause turnovers in the game?
+Generated Answer: seven
+Correct Answer: three
+
+Question: What Denver player caused two fumbles for the Panthers?
+Generated Answer: Von Millers
+Correct Answer: Von Miller
+
+Question: How many tackles did Von Miller accomlish by himself in the game?
+Generated Answer: five
+Correct Answer: five
+
+Question: Which network broadcasted Super Bowl 50 in the U.S.?
+Generated Answer: CBS
+Correct Answer: CBS
+
+Question: What was the average cost for a 30 second commercial during Super Bowl 50?
+Generated Answer: $4 million
+Correct Answer: $5 million
+
+Question: Which group headlined the Super Bowl 50 halftime show?
+Generated Answer: Coldplayed
+Correct Answer: Coldplay
+
+Question: Which performers joined the headliner during the Super Bowl 50 halftime show?
+Generated Answer: Beyonce and the Bruno-Mars band
+Correct Answer: Beyoncé and Bruno Mars
+
+Question: At which Super Bowl did Beyonce headline the halftime show?
+Generated Answer: XLVI
+Correct Answer: Super Bowl XLVII
+
+Question: Who was the broadcaster for Super Bowl 50 in the United States?
+Generated Answer: Coldplayed
+Correct Answer: CBS
+
+Question: What was the average cost of a 30-second commercial?
+Generated Answer: $4 million
+Correct Answer: $5 million
+
+Question: What halftime performer previously headlined Super Bowl XLVII?
+Generated Answer: Beyonce
+Correct Answer: Beyoncé
+
+Question: What halftime performer previously headlined Super Bowl XLVIII?
+Generated Answer: Beyonce
+Correct Answer: Bruno Mars
+
+Question: Who was the main performer at this year's halftime show?
+Generated Answer: Beyonce
+Correct Answer: Coldplay
+
+Question: Which network broadcasted the 50th Super Bowl game? 
+Generated Answer: NBC
+Correct Answer: CBS
+
+Question: What was the average cost for a TV ad lasting 30 seconds during Super Bowl 50?
+Generated Answer: $4.5
+Correct Answer: $5 million
+
+Question: Who was the male singer who performed as a special guest during Super Bowl 50?
+Generated Answer: Beyonce
+Correct Answer: Bruno Mars
+
+Question: What ranking does the Super Bowl 50 halftime show have on the list of most watched TV broadcasts?
+Generated Answer: third
+Correct Answer: third
+
+Question: What station aired the Super Bowl?
+Generated Answer: NBC
+Correct Answer: CBS
+
+Question: How much money did a 1/2 minute commercial cost?
+Generated Answer: $
+Correct Answer: $5 million
+
+Question: What band headlined half-time during Super Bowl 50?
+Generated Answer: Coldplayed
+Correct Answer: Coldplay
+
+Question: What two artists came out with Coldplay during the half-time show?
+Generated Answer: Beyonce and the Bruno-Mars band
+Correct Answer: Beyoncé and Bruno Mars
+
+Question: Who broadcast the Super Bowl on TV?
+Generated Answer: Superbowl 50
+Correct Answer: CBS
+
+Question: Who headlined the halftime show for Super Bowl 50?
+Generated Answer: Beyonce
+Correct Answer: Coldplay
+
+Average Similarity: 60.14%%

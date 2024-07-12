@@ -1,0 +1,531 @@
+Question 0: What did the writer think of Timothy after learning about his typical day?
+Generated Answer: The correct answer is C. Full answer: Tim had _
+Options: ['Timothy was very hardworking.', 'Timothy was being mistreated.', 'Timothy had a heavy burden.', 'Timothy was enjoying his childhood.']
+True Answer: C
+
+Question 1: Which of the following statements best describes the writer's opinion?
+Generated Answer: It depends on the context. Full answer: children should not be permitted enough hours to spend time on homework.
+Options: ['Children should be allowed enough time to play.', 'Playing board games works better than playing video games.', 'The more they play, the more creative children will become.', 'The depression caused by homework makes children unwilling to play.']
+True Answer: A
+
+Question 2: According to the passage, how long should a thirdgrader spend a day doing homework?
+Generated Answer: The correct answer is D. Full answer: about fifty minute.
+Options: ['About ten minutes.', 'No more than twenty minutes.', 'No more than thirty minutes.', 'About fifty minutes.']
+True Answer: C
+
+Question 3: According to the report,   _  .
+Generated Answer: The correct answer is B. Full answer: B
+Options: ["people won't necessarily lose jobs", 'big companies will face fewer challenges', 'small companies will win against big companies', 'most people will become interested in technology']
+True Answer: A
+
+Question 4: We can infer from the text that in the future   _  .
+Generated Answer: The correct answer is C. Full answer: AI will threatens people its lives
+Options: ['people will face many difficulties', 'people will take up more creative jobs', "artificial intelligence will threaten people's lives", 'most jobs will be done in traditional workplaces']
+True Answer: B
+
+Question 5: What is the attitude of most experts in artificial intelligence and robotics to the future?
+Generated Answer: The correct answer is B. Full answer: Worry.
+Options: ['Mixed.', 'Worried.', 'Hopeful.', 'Doubtful.']
+True Answer: C
+
+Question 6: What would be the best title for this passage?
+Generated Answer: It is a B. Full answer: interesting facts on rings
+Options: ['History of rings', 'Interesting facts about rings', 'Different beliefs about rings', 'The meaning of the rings.']
+True Answer: A
+
+Question 7: Which is NOT true according to the passage?
+Generated Answer: It is the correct answer. Full answer: 1
+Options: ['The meaning of the rings remained unchanged.', 'One should be careful of choosing a ring in a shop from different kinds.', 'Jewish are so faithful to their beliefs to wear rings on the fourth finger.', 'Now most people in the world still follow Roman Catholics traditionally.']
+True Answer: C
+
+Question 8: What can we infer from the passage?
+Generated Answer: The correct answer is C. Full answer: Woman wore ring thousands more years ago than people think.
+Options: ['Men were looked upon by women for thousands years.', 'Only women have the right to make themselves beautiful.', 'women wore rings thousands of years earlier than men.', 'You can have an inscription put on the inside the band.']
+True Answer: C
+
+Question 9: According to the passage, which statement is NOT sure?
+Generated Answer: There is no correct answer. Full answer: Remembering your husband's given names is often a serious misunderstanding.
+Options: ["Forgetting your wife's favourite flower is a very serious mistake.", 'It is common to call an old acquaintance his given name.', 'The writer was in his twenties when he met John in the store.', 'John and the writer studied in the same college.']
+True Answer: D
+
+Question 10: We can infer from the passage that   _  .
+Generated Answer: It is possible to infer a correct answer from a short answer. Full answer: There is no better way to remember an associate's names than to recite them.
+Options: ['The writer must have experienced such embarrassment many times', 'The writer had difficulty remembering names because he was getting old', "Running through the alphabet was always an effective way of remembering an acquaintance's name for the writer", 'Mrs. Ricca would have named one of her sons "Bill" if Billerica was not the name of a town north of Boston']
+True Answer: A
+
+Question 11: What's the best title for the passage?
+Generated Answer: The correct answer is C. Full answer: Pay kids to get good grade
+Options: ['Tips on Paying Kids for Good Grades', 'New Trends in Paying Kids for Good Grades', "Don't Pay Kids for Good Grades", 'Good Grades Mean Good Rewards']
+True Answer: C
+
+Question 12: It call be inferred from the passage that_.
+Generated Answer: The correct answer is C. Full answer: children will never askfor rewards if theyenter high class
+Options: ['if you pay kids for good grades,they will take it for granted', 'if you buy children pizza as a reward,they will work harder', 'children will not ask for rewards when they enter high school', "good grades won't help kids make great progress in future"]
+True Answer: A
+
+Question 13: The author takes her neighbour as an example to show_.
+Generated Answer: There is one possible answer. The correct answer is C. Full answer: Get rewards from children's good grade
+Options: ['pizza is the best way to motivate children', 'rewards are not the only way to motivate children', 'getting rewards for good grades is common', 'it is necessary to reward children for their good grades']
+True Answer: B
+
+Question 14: Who are most probably interested in this passage?
+Generated Answer: The correct answer is C. Full answer: Schools.
+Options: ['Parents.', 'Children.', 'Teachers.', 'Businessmen.']
+True Answer: A
+
+Question 15: We can learn from the text that Vicki  _  .
+Generated Answer: The correct answer is C. Full answer:Was sad about her dad's Death
+Options: ['often received gifts from her father', 'expected Uncle Tom to give her something expensive', "was sad because of her father's death", 'liked and respected Uncle Tom']
+True Answer: D
+
+Question 16: What kink of person is Uncle Tom?
+Generated Answer: The correct answer is C. Full answer: Mystery
+Options: ['Thoughtful', 'Humorous', 'Mysterious', 'Funny']
+True Answer: A
+
+Question 17: What did Uncle Tom want to teach Vicki?
+Generated Answer: It is B. Full answer: the meaning _
+Options: ['How to respect others', 'The meaning of gifts', 'How to deal with gifts', 'The value of a promise']
+True Answer: D
+
+Question 18: What's the best title for the passage?
+Generated Answer: It is B. Full answer:Father's considersate l
+Options: ["Father's generosity", "Father's considerate love", 'The love for children', "Love's power"]
+True Answer: B
+
+Question 19: The author demonstrates her father's love for her mainly by  _  .
+Generated Answer: It is a B. Full answer:Reasoning
+Options: ['suggestion', 'reasoning', 'examples', 'argument']
+True Answer: C
+
+Question 20: Which of the following is not TRUE?
+Generated Answer: It is A. Full answer: Before the writer got divorced, his father not get themselves involved with her living.
+Options: ['After the author got married, her father no longer get himself involved in her life.', "Now the father's economic condition is satisfying.", "The author's father was divorced when she was 11.", 'The father has a great sense of responsibility.']
+True Answer: A
+
+Question 21: The authors' two shopping experiences with father show  _  .
+Generated Answer: It is B. Full answer: Dad was fast in actions
+Options: ['father paid little attention to money', 'father was quick in action', 'father loved going shopping very much', "father paid great attention to his children's needs"]
+True Answer: D
+
+Question 22: The text is mainly about  _  .
+Generated Answer: It is a correct answer. Full answer: About an unusual man
+Options: ['a strange man', 'how roller skating began', 'an unusual party', 'how people enjoyed themselves in the 18th century']
+True Answer: B
+
+Question 23: People thought Merlin was a dreamer because he  _  .
+Generated Answer: The correct answer is B. Full answer: Had a gift
+Options: ['often gave others surprises', 'was a gifted musician', 'was full of imagination', 'invented the roller skates']
+True Answer: C
+
+Question 24: Merlin put wheels under his shoes in order to  _  .
+Generated Answer: The correct answer is C. Full answer: Impress the guests
+Options: ['test his invention', 'arrive at the party sooner', 'impress the party guests', 'show his skill in walking on wheels']
+True Answer: C
+
+Question 25: What was the speed of the first flight?
+Generated Answer: The correct answer is D. Full answer: 1000 feet percent hour
+Options: ['10 feet per second.', '120 feet per minute.', '12 feet per second.', '1200 feet per hour.']
+True Answer: A
+
+Question 26: The brothers constructed a number of kites in order to  _  .
+Generated Answer: It is a B. Full answer: Convert the shape to support _
+Options: ['test the materials they would use for their plane', 'prove that building a flying machine was possible', 'see which shape could support the most weight', "improve the design of their plane's wings"]
+True Answer: D
+
+Question 27: Which of the following is true according to the passage?
+Generated Answer: It is possible to answer this question by typing the answer in the correct place. Full answer: William wrright flew eight52feet on descember
+Options: ['The Wright brothers built all the parts of their first plane.', 'Wilbur Wright flew 852 feet on December 17, 1903.', 'There was no wind on the day the Wright brothers flew.', 'Orville Wright went on to become a professional pilot.']
+True Answer: B
+
+Question 28: Which of the following is NOT suitable for describing Geneva?
+Generated Answer: There are many possibilities. You can help us by typing in all the answers.
+Options: ['Capital of Peace.', 'Palais des Nations.', "The World's Smallest Metropolis.", 'The birthplace of the Swiss clock and watch making.']
+True Answer: B
+
+Question 29: What do we learn about the Lake of Geneva from the text?
+Generated Answer: The correct answer is C. Full answer:It has an direct pass to _
+Options: ['It is the symbol of Geneva.', 'It lies among the Jura Range.', 'It has a direct passage to the ocean.', 'It is a large body of water of tourist interest.']
+True Answer: D
+
+Question 30: What made the author deeply sad?
+Generated Answer: It is B. Full answer: the sight  he seen in _
+Options: ['The poor food for the patients.', 'The sight he saw in the hospital.', 'The hopeless patients in the hospital.', 'The bad service of the hospital.']
+True Answer: B
+
+Question 31: What's people's excuse for not visiting the old?
+Generated Answer: The correct answer is D. Full answer:They usually go abroad
+Options: ['They are too busy.', "They can't afford it.", 'They live too far away.', 'They usually travel abroad.']
+True Answer: A
+
+Question 32: What can we learn from the passage?
+Generated Answer: The correct answer is C. Full answer: a doctor was important for old men.
+Options: ['Time will tell the truth.', 'People are afraid of being old.', 'A doctor is important to old people.', 'Respecting elderly people is a good tradition.']
+True Answer: B
+
+Question 33: As a volunteer, only when you grow old enough can you   _  .
+Generated Answer: The correct answer is B. Full answer: Driving the aged to christmas
+Options: ['plant trees on hills', 'drive the elderly to church', 'give advice to others', 'help out in local libraries']
+True Answer: B
+
+Question 34: It can be inferred from the passage that to be a volunteer,   _  .
+Generated Answer: The correct answer is B. Full answer: you must work really long
+Options: ['you can do experiments', 'you must be very strong', 'you need to work very long', 'you can get something valuable']
+True Answer: D
+
+Question 35: What's the best title of the passage?
+Generated Answer: The correct answer is B. Full answer: Volunteers service the east
+Options: ['How to hunt for jobs', 'Volunteer service in the west', 'How to make friends', 'How to work with animals']
+True Answer: B
+
+Question 36: If you want to have a good memory,    _   .
+Generated Answer: The correct answer is B. Full answer: you shouldmake a consciously effort:
+Options: ['you should ask someone else to help you to remember things', 'you should make a conscious effort to practice and exercise', 'you should never stop learning', 'you should try hard to remember things']
+True Answer: B
+
+Question 37: In the passage, the writer seems to tell us    _   .
+Generated Answer: It is possible to solve the problem by following the correct answer. Full answer: Remembering things happens when
+Options: ['forgetting things is serious and dangerous', 'always forgetting things is understandable', 'forgetting things at times is natural', 'the ways to protect yourself from memory "tricks"']
+True Answer: C
+
+Question 38: The best title for this passage is"   _   ".
+Generated Answer: There is one possible answer. The correct answer is C. Full answer: the danger _
+Options: ['How to Get a Good Memory', "Tricks' of Memory", 'The Danger of Forgetfulness and Absent-mindedness', 'Get Rid of Absent-mindedness']
+True Answer: B
+
+Question 39: The author's suggestion can help  _  .
+Generated Answer: It depends on the answer. Full answer: Consumer-oriented
+Options: ['people solve emotional problems', "draw people's attention to the evening news", 'college students get along well with others', 'develop strong neighborhood relationships']
+True Answer: A
+
+Question 40: According to the text, good books   _  .
+Generated Answer: The correct answer is C. Full answer: Must bemade into movies
+Options: ['offer as much knowledge as TV does', 'are more entertaining than TV', 'should be made into films', 'cannot be found easily']
+True Answer: B
+
+Question 41: In the author's opinion, life without TV  _  .
+Generated Answer: The correct answer is C. Full answer: Was a bit of a fun
+Options: ["is not good for children's imagination", 'will be accepted by more people', 'used to be a lot of fun', 'is not worth living']
+True Answer: C
+
+Question 42: What would be the best title for the text?
+Generated Answer: It depends on the question. Full answer: Setting off TV: an quiet hours
+Options: ['The future of television', 'Turning off TV: a quiet hour', 'Saying goodbye to television', 'Effects of television on humans']
+True Answer: B
+
+Question 43: We can learn from the beginning of the passage that   _
+Generated Answer: It depends on which option you choose. Full answer: There was a disaster because
+Options: ['the author lost his sight because of a car crash.', "the author wouldn't love life if the disaster didn't happen.", 'the disaster made the author appreciate what he had.', "the disaster strengthened the author's desire to see."]
+True Answer: A
+
+Question 44: What's the most difficult thing for the author?
+Generated Answer: The correct answer is D. Full answer: Using his ability to find himself in his destiny.
+Options: ['How to adjust himself to reality.', 'Building up assurance that he can find his place in life.', 'Learning to manage his life alone.', 'How to invent a successful variation of baseball.']
+True Answer: B
+
+Question 45: According to the passage, the baseball and encouragement offered by the man   _
+Generated Answer: The correct answer is C. Full answer: Lead to _
+Options: ["hurt the author's feeling.", 'gave the author a deep impression.', 'directly led to the invention of ground ball.', 'inspired the author.']
+True Answer: B
+
+Question 46: What is the best title for the passage?
+Generated Answer: The correct answer is C. Full answer:A disaster made a strength person
+Options: ['A Miserable Life', 'Struggle Against Difficulties', 'A Disaster Makes a Strong Person', 'An Unforgetable Experience']
+True Answer: B
+
+Question 47: He who considers himself to be better and more important than others is likely to  _  .
+Generated Answer: The correct answer is C. Full answer: Has a _
+Options: ['have his head in the clouds', 'be easy to deal with', 'have a "common sense"', 'have "a big head"']
+True Answer: D
+
+Question 48: Which of the following expressions is similar to "down to earth"?
+Generated Answer: The correct answer is D. Full answer: daydreamers
+Options: ['"his nose in the air"', '"go to his head"', '"both feet on the ground"', '"daydreamer"']
+True Answer: C
+
+Question 49: The passage is mainly about  _  .
+Generated Answer: It is B. Full answer: What to do
+Options: ['some popular American expressions', 'how to be down to earth', 'why to be honest and open', 'how to deal with someone who is down to earth']
+True Answer: A
+
+Question 50: What can we learn about responsibility?
+Generated Answer: The correct answer is C. Full answer: it has a similar requirements of people like discipline
+Options: ["It's of secondary importance to discipline.", "It's the basic but leading quality in one's life.", 'It has the same requirements for people as discipline.', "It's the most important factor in building one's character."]
+True Answer: B
+
+Question 51: Those who escape from accepting responsibility    .
+Generated Answer: The correct answer is B. Full answer: C.
+Options: ["can't achieve their goals in a short time", 'can benefit from not growing up in the end', 'can miss the advantages of being a responsible person', 'can avoid the burdens of unpleasant or frightening things']
+True Answer: C
+
+Question 52: What does George Bernard Shaw's saying imply?
+Generated Answer: The correct answer is C. Full answer: we shouldfirst step outside our current circumstances
+Options: ['We should bear responsibility regardless of situations.', "We shouldn't owe failure to the sense of responsibility.", 'We should first step out of our present circumstances.', "We shouldn't care what kind of situations we're in."]
+True Answer: A
+
+Question 53: Why was the patient quite angry with the nurse and the housekeeper?
+Generated Answer: The correct answer is C. Full answer: because he couldn't get on his own.
+Options: ['Because he had slipped on the water by chance.', 'Because he had to mop up the water by himself.', "Because he didn't like the noise made in hospital.", 'Because he found them refusing their responsibility.']
+True Answer: D
+
+Question 54: From the passage we know that the fastest way to travel is   _  .
+Generated Answer: The correct answer is B. Full answer: by rail
+Options: ['by car', 'by train', 'by plane', 'by boat']
+True Answer: C
+
+Question 55: If we travel by car, we can   _  .
+Generated Answer: The correct answer is B. Full answer: Making our personal timetable
+Options: ['only stop at the destination', 'make our own timetable', 'travel to a very far place in several minutes', 'travel one thousand miles a day']
+True Answer: B
+
+Question 56: How many ways to travel are mentioned in the passage?
+Generated Answer: The correct answer is C. Full answer: 3
+Options: ['Five', 'Six', 'Three', 'Four']
+True Answer: D
+
+Question 57: What is true about children when they play games?
+Generated Answer: The correct answer is C. Full answer: She want _
+Options: ['They can stop playing any time they like.', 'They can test their personal abilities.', 'They want to pick a better team.', "They don't need rules."]
+True Answer: A
+
+Question 58: To become a leader in a game the child has to   _  .
+Generated Answer: The correct answer is C. Full answer: BE confident about himself
+Options: ['play well', 'be popular among his playmates', 'be confident in himself', 'wait for his turn']
+True Answer: D
+
+Question 59: What do we know about grown-ups?
+Generated Answer: The correct answer is C. Full answer: She don' t need to a cause to plays a games.
+Options: ['They are not interested in games.', "They find children's games too easy.", "They don't need a reason to play games.", "They don't understand children's games."]
+True Answer: B
+
+Question 60: The writer believes that   _  .
+Generated Answer: It is possible to make mistakes in the text. Full answer: People should play their children games
+Options: ['children should make better rules for their games', 'children should invite grow-ups to play with them', "children's games can do them a lot of good", 'children play games without reasons']
+True Answer: C
+
+Question 61: Why did the three friends run across Eastern Europe?
+Generated Answer: The correct answer is D. Full answer: to change person's attitude on run.
+Options: ['To look for a challenge.', 'To raise money for charity.', 'To experience Forrest Gump-style.', "To change people's attitudes on running."]
+True Answer: B
+
+Question 62: W at can we know about Love 146?
+Generated Answer: The correct answer is B. Full answer: it has several branches:
+Options: ['It  focuses on child trafficking.', 'It has many branches in the UK.', 'It is run by Tom,  Rob and Guy.', 'It provides kids with medical aid.']
+True Answer: A
+
+Question 63: Which of the following was a challenge for Tom in the run?
+Generated Answer: It depends on the text. Full answer: What was the challenge in?
+Options: ['The cold weather.', 'The long distance.', 'The tough terrain', 'The necessary aids.']
+True Answer: A
+
+Question 64: What is the purpose of this text?
+Generated Answer: The correct answer is C. Full answer: to tell a interesting tale.
+Options: ['To solve a problem', 'To get more people to join in.', 'To tell an interesting story.', 'To present a research result.']
+True Answer: B
+
+Question 65: In the opinion of C. Barr Taylor, we should  _  .
+Generated Answer: The correct answer is B. Full answer: Trying to _
+Options: ['think positively of shyness', 'try to get rid of shyness', 'attempt to be a little shy', 'often help those shy people']
+True Answer: A
+
+Question 66: The passage mentions the study by Southern Illinois University just to show that  _  .
+Generated Answer: It is a correct answer. Full answer: Shyness is used by shy persons
+Options: ['shy people use rich facial expressions', 'shy people are good at observing others', 'shyness can be used to reduce anxiety', 'shyness can be used in social connections']
+True Answer: B
+
+Question 67: We can know from the passage that shy people  _  .
+Generated Answer: The correct answer is C-D. Full answer: Love to thinking a bit before take anaction
+Options: ['are good at getting used to a new environment', "often attach much importance to others' opinions", 'hate to think a lot before taking an action', 'are good at overcoming their feeling of insecurity']
+True Answer: B
+
+Question 68: The purpose of the picture and the words below are to
+Generated Answer: There are two answers. The correct answer is B. Full answer: Set the popular popularity for electronic device
+Options: ['introduce a famous painting', 'show the popularity of electronic devices', 'recommend an exhibition on art', 'raise the topic to be discussed']
+True Answer: D
+
+Question 69: According to the text, what is the author's opinion about the word "technology"?
+Generated Answer: The correct answer is B. Full answer: it has  changed
+Options: ["It has changed the way of people's everyday life.", 'It has brought great advantages and convenience to people.', 'It has different meanings in different times.', 'It includes more meanings than usually regarded.']
+True Answer: D
+
+Question 70: According to the poll, the time people spend viewing content on electronic devices a day differs from_.
+Generated Answer: The correct answer is B. Full answer: 4 to 6 hours
+Options: ['one to three hours', 'four to six hours', 'one to more than ten hours', 'seven to more than ten hours.']
+True Answer: C
+
+Question 71: What is the topic of this text?
+Generated Answer: It is A. Full answer:How many hour a year people spent watching information on e devices
+Options: ['How many hours a day people spend watching content on electronic devices', "The bad effects on people's health caused by using electronic devices too often.", "The proper time people take to use their electronic devices every day'", 'People waste too much time in watching content on electronic devices.']
+True Answer: A
+
+Question 72: What can be learned about the horses in the Melbourne Cup?
+Generated Answer: It is a B. Full answer:They are raise andtrained by jointly effort_.
+Options: ['They are all winners of a certain race.', 'They are raised and trained by joint effort.', 'They are chosen from ordinary horses.', 'Their fates are determined by their trainers.']
+True Answer: B
+
+Question 73: The racehorses are given handicaps so that   _  .
+Generated Answer: It is a B. Full answer: previous winner are likely not to lose
+Options: ['they will weigh the same', 'previous winners are unlikely to win', 'the race will be fair enough', 'they will be more adaptable to the race']
+True Answer: C
+
+Question 74: It can be learned from the passage that   _  .
+Generated Answer: There is a correct answer. Full answer:The spectators at the marlton cup
+Options: ['the spectators of the Melbourne Cup must dress well', 'the Melbourne Cup was intended for wealthy people', 'the winner of the Melbourne Cup can earn a large fortune', 'the Melbourne Cup is the best-known horserace worldwide']
+True Answer: B
+
+Question 75: The passage can most probably be found in   _  .
+Generated Answer: It is found. Full answer: it is discovered.
+Options: ['a sports journal', 'a business newspaper', 'an academic paper', 'a health magazine']
+True Answer: A
+
+Question 76: How are social robots different from household robots?
+Generated Answer: The correct answer is C. Full answer:They do _ the usual house work.
+Options: ['They can control their emotions.', 'They are more like humans.', 'They do the normal housework.', 'They respond to users more slowly.']
+True Answer: B
+
+Question 77: What can Oshbot work as?
+Generated Answer: The correct answer is B. Full answer: a tour driver.
+Options: ['A language teacher.', 'A tour guide.', 'A shop assistant.', 'A private nurse.']
+True Answer: C
+
+Question 78: What does the passage mainly present?
+Generated Answer: The correct answer is B. Full answer: marketing strategiesfor social robot.
+Options: ['A new design idea of household robots.', 'Marketing strategies for social robots.', 'Information on household robots.', 'An introduction to social robots.']
+True Answer: D
+
+Question 79: By "We should not take this privilege for granted", the writer means that   _  .
+Generated Answer: The correct answer is C. Full answer: Know is crucial in
+Options: ['we have special right to do anything', 'it is wrong to make use of the privilege', 'knowledge is important in the digital society', 'we should seize the chances the modern society offers']
+True Answer: D
+
+Question 80: The writer's attitude toward the digital society is   _  .
+Generated Answer: It is a correct answer to C. Full answer: N/A
+Options: ['critical', 'positive', 'neutral', 'negative']
+True Answer: B
+
+Question 81: What is Brian Tracy's lifechanging advice about?
+Generated Answer: Visit your public library or search the database . Or look for books that are used in places like amazon.com.
+2. I really don't have the time...
+Answer: Buy audiobooks and listen to them in the car while driving to and from work. Or copy them to your MP3-player and listen while riding your bike /bus to work or school. Recently selling audiobooks through MP3-downloads has become popular...
+Shut off the TV a little earlier and start reading.
+Question: What is Brian Tracy's lifechanging advice about?
+Options: A: Watching tv. B: Listening to mp3. C: Surfing the internet. D: Reading helpful books. 
+Answer: The correct answer is C. Full answer:surfing _ the net.
+Options: ['Watching TV.', 'Listening to MP3.', 'Surfing the internet.', 'Reading helpful books.']
+True Answer: D
+
+Question 82: If you'd like to improve your work, you should  _   according to the writer.
+Generated Answer: Visit your public library or search the database . Or look for books that are used in places like amazon.com.
+2. I really don't have the time...
+Answer: Buy audiobooks and listen to them in the car while driving to and from work. Or copy them to your MP3-player and listen while riding your bike /bus to work or school. Recently selling audiobooks through MP3-downloads has become popular...
+Shut off the TV a little earlier and start reading.
+Question: If you'd like to improve your work, you should  _   according to the writer.
+Options: A: Read work-related books B: Become more energetic C: Improve your study D: Improve your relations 
+Answer: The correct answer is B. Full answer: Get more energy
+Options: ['read work-related books', 'become more energetic', 'improve your study', 'improve your relations']
+True Answer: A
+
+Question 83: Which is NOT true about reading an hour a day?
+Generated Answer: Visit your public library or search the database . Or look for books that are used in places like amazon.com.
+2. I really don't have the time...
+Answer: Buy audiobooks and listen to them in the car while driving to and from work. Or copy them to your MP3-player and listen while riding your bike /bus to work or school. Recently selling audiobooks through MP3-downloads has become popular...
+Shut off the TV a little earlier and start reading.
+Question: Which is NOT true about reading an hour a day?
+Options: A: It will open up your mind. B: You will have about 260 hours a year to read. C: You will read lots of books and get much useful advice. D: It will probably bring great things and feelings into your life. 
+Answer: The correct answer is D. Full answer:It will likely bring  great  feelings in his life.
+Options: ['It will open up your mind.', 'You will have about 260 hours a year to read.', 'You will read lots of books and get much useful advice.', 'It will probably bring great things and feelings into your life.']
+True Answer: B
+
+Question 84: What should you do if you really don't have the money to read?
+Generated Answer: Visit your public library or search the database . Or look for books that are used in places like amazon.com.
+2. I really don't have the time...
+Answer: Buy audiobooks and listen to them in the car while driving to and from work. Or copy them to your MP3-player and listen while riding your bike /bus to work or school. Recently selling audiobooks through MP3-downloads has become popular...
+Shut off the TV a little earlier and start reading.
+Question: What should you do if you really don't have the money to read?
+Options: A: To buy some books from amazon.com. B: To download mp3 free. C: To visit the public library. D: To borrow audiobooks and listen to them. 
+Answer: The correct answer is D. Full answer: to borrow mp 3- mp4 free
+Options: ['To buy some books from amazon.com.', 'To download MP3 free.', 'To visit the public library.', 'To borrow audiobooks and listen to them.']
+True Answer: C
+
+Question 85: What is the writer's idea about audiobooks?
+Generated Answer: Visit your public library or search the database . Or look for books that are used in places like amazon.com.
+2. I really don't have the time...
+Answer: Buy audiobooks and listen to them in the car while driving to and from work. Or copy them to your MP3-player and listen while riding your bike /bus to work or school. Recently selling audiobooks through MP3-downloads has become popular...
+Shut off the TV a little earlier and start reading.
+Question: What is the writer's idea about audiobooks?
+Options: A: They are more useful. B: Listening to audiobooks is easier than reading books. C: It's dangerous to listen to audiobooks while driving or riding. D: Audiobooks are a good solution to the problem of having no time to read. 
+Answer: The correct answer is C. Full answer:It's risky to watch
+Options: ['They are more useful.', 'Listening to audiobooks is easier than reading books.', "It's dangerous to listen to audiobooks while driving or riding.", 'Audiobooks are a good solution to the problem of having no time to read.']
+True Answer: D
+
+Question 86: How did the author feel after she picked up single skating?
+Generated Answer: The correct answer is D. Full answer: Praise.
+Options: ['Thrilled.', 'Confident.', 'Disappointed.', 'Proud.']
+True Answer: C
+
+Question 87: What did the author do about the man's complaint?
+Generated Answer: The correct answer is D. Full answer: Her apologized wit a grin.
+Options: ['She told him how rude he was.', 'She gave his money back.', 'She asked her boss for help.', 'She apologized with a smile.']
+True Answer: D
+
+Question 88: The passage is mainly about  _   .
+Generated Answer: It is a B. Full answer: a lesson about skating
+Options: ["the author's skating life", 'a lesson from skating', "the author's first job", 'how to be a good waitress']
+True Answer: C
+
+Question 89: Bali is distinguished from the rest of Indonesia by   _  .
+Generated Answer: It is B. Full answer: the families customs, traditions and community lifestyle
+Options: ["people's tight family relationship", 'the family customs and traditions', "people's great love for religion", 'the influence of religion on their culture']
+True Answer: D
+
+Question 90: When a person dies in Bali, it is a common practice to   _  .
+Generated Answer: The correct answer is B. Full answer:Celeate _ the loss like an event
+Options: ['express deep sorrow at his death', 'celebrate the death like a great event', 'sing and dance joyfully in his honor', 'remember what he did in his lifetime']
+True Answer: B
+
+Question 91: What is the text mainly about?
+Generated Answer: It is B. Full answer: the lifestyle _
+Options: ['Balinese religion.', 'The lifestyle of Balinese.', 'Balinese culture.', 'The tourism in Bali.']
+True Answer: C
+
+Question 92: The author asks us to pay more attention to roses because  _  .
+Generated Answer: It is a correct answer. Full answer: Rose can represented love
+Options: ['roses can represent love and life', 'roses are very sweet', 'we are so busy as to ignore roses', 'roses have some unknown uses']
+True Answer: D
+
+Question 93: Protein GOPO(R) found in rose hips can do all the following EXCEPT  _  .
+Generated Answer: The correct answer is B. Full answer:Improving depression
+Options: ['protecting vulnerable cartilage', 'improving mood', 'improving sleep quality of normal people', 'improving the life of those affected by arthritis']
+True Answer: C
+
+Question 94: What would be the best title for the passage?
+Generated Answer: The correct answer is B. Full answer: Rose, _
+Options: ['In Pain? Stop and Smell the Roses', 'Roses, the Center of Praise', 'Roses, Symbol of Love and Life', 'Sorry Shakespeare, No Other Rose Could Smell as Sweet']
+True Answer: A
+
+Question 95: What may be the best title for this passage?
+Generated Answer: It is a B. Full answer:How to stay ecological balancing
+Options: ['Control and Prevention of Forest Fires', 'How to Keep Ecological Balance', 'Effects of Forest Fires', 'Methods of Fire Spread Control']
+True Answer: A
+
+Question 96: Firefighters get rid of all fuel in all area in order to   _  .
+Generated Answer: It is possible to solve the problem by following the correct answer. Full answer: To prevent the forests firefrom occurring
+Options: ['keep close monitoring of forest fires', 'prevent the forest fire from occurring', 'protect the animals there', 'stop the wildfire from spreading']
+True Answer: D
+
+Question 97: The government arranges some controlled burns to  _  .
+Generated Answer: It is possible to solve the problem by following the correct answer. Full answer: Prevent the spreading of forests fires
+Options: ['burn the rubbish and keep the forest clean', 'help keep ecological balance of nature', 'reduce fuel buildup and limit forest fires spread', "provide reasonable conditions for some plants'growth"]
+True Answer: C
+
+Question 98: A controlled forest fire may play a positive role because   _  .
+Generated Answer: There is one possible answer. The correct answer is B. Full answer:It promotes _
+Options: ['a new forest will appear soon', 'it promotes the development of some seeds', 'nature keeps its balance only by wildfires', 'it makes the trees grow faster than before']
+True Answer: B
+
+Question 99: Why did Amanda feel regretful after the competition?
+Generated Answer: The correct answer is D. Full answer: because she couldn't compete.
+Options: ["Because she wasn't admitted to the club.", 'Because she dropped her ribbon suddenly.', 'Because she broke the rule of the competition.', "Because she didn't try her best to compete."]
+True Answer: D
+
+Exact Match Score: 13.00%

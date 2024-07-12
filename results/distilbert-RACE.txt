@@ -1,0 +1,501 @@
+Question 0: What did the writer think of Timothy after learning about his typical day?
+Generated Answer: Timothy had a heavy burden.
+Options: ['Timothy was very hardworking.', 'Timothy was being mistreated.', 'Timothy had a heavy burden.', 'Timothy was enjoying his childhood.']
+True Answer: Timothy had a heavy burden.
+
+Question 1: Which of the following statements best describes the writer's opinion?
+Generated Answer: The depression caused by homework makes children unwilling to play.
+Options: ['Children should be allowed enough time to play.', 'Playing board games works better than playing video games.', 'The more they play, the more creative children will become.', 'The depression caused by homework makes children unwilling to play.']
+True Answer: Children should be allowed enough time to play.
+
+Question 2: According to the passage, how long should a thirdgrader spend a day doing homework?
+Generated Answer: About fifty minutes.
+Options: ['About ten minutes.', 'No more than twenty minutes.', 'No more than thirty minutes.', 'About fifty minutes.']
+True Answer: No more than thirty minutes.
+
+Question 3: According to the report,   _  .
+Generated Answer: big companies will face fewer challenges
+Options: ["people won't necessarily lose jobs", 'big companies will face fewer challenges', 'small companies will win against big companies', 'most people will become interested in technology']
+True Answer: people won't necessarily lose jobs
+
+Question 4: We can infer from the text that in the future   _  .
+Generated Answer: people will face many difficulties
+Options: ['people will face many difficulties', 'people will take up more creative jobs', "artificial intelligence will threaten people's lives", 'most jobs will be done in traditional workplaces']
+True Answer: people will take up more creative jobs
+
+Question 5: What is the attitude of most experts in artificial intelligence and robotics to the future?
+Generated Answer: Mixed.
+Options: ['Mixed.', 'Worried.', 'Hopeful.', 'Doubtful.']
+True Answer: Hopeful.
+
+Question 6: What would be the best title for this passage?
+Generated Answer: Interesting facts about rings
+Options: ['History of rings', 'Interesting facts about rings', 'Different beliefs about rings', 'The meaning of the rings.']
+True Answer: History of rings
+
+Question 7: Which is NOT true according to the passage?
+Generated Answer: The meaning of the rings remained unchanged.
+Options: ['The meaning of the rings remained unchanged.', 'One should be careful of choosing a ring in a shop from different kinds.', 'Jewish are so faithful to their beliefs to wear rings on the fourth finger.', 'Now most people in the world still follow Roman Catholics traditionally.']
+True Answer: Jewish are so faithful to their beliefs to wear rings on the fourth finger.
+
+Question 8: What can we infer from the passage?
+Generated Answer: You can have an inscription put on the inside the band.
+Options: ['Men were looked upon by women for thousands years.', 'Only women have the right to make themselves beautiful.', 'women wore rings thousands of years earlier than men.', 'You can have an inscription put on the inside the band.']
+True Answer: women wore rings thousands of years earlier than men.
+
+Question 9: According to the passage, which statement is NOT sure?
+Generated Answer: Forgetting your wife's favourite flower is a very serious mistake.
+Options: ["Forgetting your wife's favourite flower is a very serious mistake.", 'It is common to call an old acquaintance his given name.', 'The writer was in his twenties when he met John in the store.', 'John and the writer studied in the same college.']
+True Answer: John and the writer studied in the same college.
+
+Question 10: We can infer from the passage that   _  .
+Generated Answer: Mrs. Ricca would have named one of her sons "Bill" if Billerica was not the name of a town north of Boston
+Options: ['The writer must have experienced such embarrassment many times', 'The writer had difficulty remembering names because he was getting old', "Running through the alphabet was always an effective way of remembering an acquaintance's name for the writer", 'Mrs. Ricca would have named one of her sons "Bill" if Billerica was not the name of a town north of Boston']
+True Answer: The writer must have experienced such embarrassment many times
+
+Question 11: What's the best title for the passage?
+Generated Answer: Good Grades Mean Good Rewards
+Options: ['Tips on Paying Kids for Good Grades', 'New Trends in Paying Kids for Good Grades', "Don't Pay Kids for Good Grades", 'Good Grades Mean Good Rewards']
+True Answer: Don't Pay Kids for Good Grades
+
+Question 12: It call be inferred from the passage that_.
+Generated Answer: children will not ask for rewards when they enter high school
+Options: ['if you pay kids for good grades,they will take it for granted', 'if you buy children pizza as a reward,they will work harder', 'children will not ask for rewards when they enter high school', "good grades won't help kids make great progress in future"]
+True Answer: if you pay kids for good grades,they will take it for granted
+
+Question 13: The author takes her neighbour as an example to show_.
+Generated Answer: pizza is the best way to motivate children
+Options: ['pizza is the best way to motivate children', 'rewards are not the only way to motivate children', 'getting rewards for good grades is common', 'it is necessary to reward children for their good grades']
+True Answer: rewards are not the only way to motivate children
+
+Question 14: Who are most probably interested in this passage?
+Generated Answer: Parents.
+Options: ['Parents.', 'Children.', 'Teachers.', 'Businessmen.']
+True Answer: Parents.
+
+Question 15: We can learn from the text that Vicki  _  .
+Generated Answer: expected Uncle Tom to give her something expensive
+Options: ['often received gifts from her father', 'expected Uncle Tom to give her something expensive', "was sad because of her father's death", 'liked and respected Uncle Tom']
+True Answer: liked and respected Uncle Tom
+
+Question 16: What kink of person is Uncle Tom?
+Generated Answer: Funny
+Options: ['Thoughtful', 'Humorous', 'Mysterious', 'Funny']
+True Answer: Thoughtful
+
+Question 17: What did Uncle Tom want to teach Vicki?
+Generated Answer: The value of a promise
+Options: ['How to respect others', 'The meaning of gifts', 'How to deal with gifts', 'The value of a promise']
+True Answer: The value of a promise
+
+Question 18: What's the best title for the passage?
+Generated Answer: The love for children
+Options: ["Father's generosity", "Father's considerate love", 'The love for children', "Love's power"]
+True Answer: Father's considerate love
+
+Question 19: The author demonstrates her father's love for her mainly by  _  .
+Generated Answer: examples
+Options: ['suggestion', 'reasoning', 'examples', 'argument']
+True Answer: examples
+
+Question 20: Which of the following is not TRUE?
+Generated Answer: Now the father's economic condition is satisfying.
+Options: ['After the author got married, her father no longer get himself involved in her life.', "Now the father's economic condition is satisfying.", "The author's father was divorced when she was 11.", 'The father has a great sense of responsibility.']
+True Answer: After the author got married, her father no longer get himself involved in her life.
+
+Question 21: The authors' two shopping experiences with father show  _  .
+Generated Answer: father was quick in action
+Options: ['father paid little attention to money', 'father was quick in action', 'father loved going shopping very much', "father paid great attention to his children's needs"]
+True Answer: father paid great attention to his children's needs
+
+Question 22: The text is mainly about  _  .
+Generated Answer: how roller skating began
+Options: ['a strange man', 'how roller skating began', 'an unusual party', 'how people enjoyed themselves in the 18th century']
+True Answer: how roller skating began
+
+Question 23: People thought Merlin was a dreamer because he  _  .
+Generated Answer: often gave others surprises
+Options: ['often gave others surprises', 'was a gifted musician', 'was full of imagination', 'invented the roller skates']
+True Answer: was full of imagination
+
+Question 24: Merlin put wheels under his shoes in order to  _  .
+Generated Answer: impress the party guests
+Options: ['test his invention', 'arrive at the party sooner', 'impress the party guests', 'show his skill in walking on wheels']
+True Answer: impress the party guests
+
+Question 25: What was the speed of the first flight?
+Generated Answer: 120 feet per minute.
+Options: ['10 feet per second.', '120 feet per minute.', '12 feet per second.', '1200 feet per hour.']
+True Answer: 10 feet per second.
+
+Question 26: The brothers constructed a number of kites in order to  _  .
+Generated Answer: improve the design of their plane's wings
+Options: ['test the materials they would use for their plane', 'prove that building a flying machine was possible', 'see which shape could support the most weight', "improve the design of their plane's wings"]
+True Answer: improve the design of their plane's wings
+
+Question 27: Which of the following is true according to the passage?
+Generated Answer: Wilbur Wright flew 852 feet on December 17, 1903.
+Options: ['The Wright brothers built all the parts of their first plane.', 'Wilbur Wright flew 852 feet on December 17, 1903.', 'There was no wind on the day the Wright brothers flew.', 'Orville Wright went on to become a professional pilot.']
+True Answer: Wilbur Wright flew 852 feet on December 17, 1903.
+
+Question 28: Which of the following is NOT suitable for describing Geneva?
+Generated Answer: The World's Smallest Metropolis.
+Options: ['Capital of Peace.', 'Palais des Nations.', "The World's Smallest Metropolis.", 'The birthplace of the Swiss clock and watch making.']
+True Answer: Palais des Nations.
+
+Question 29: What do we learn about the Lake of Geneva from the text?
+Generated Answer: It is a large body of water of tourist interest.
+Options: ['It is the symbol of Geneva.', 'It lies among the Jura Range.', 'It has a direct passage to the ocean.', 'It is a large body of water of tourist interest.']
+True Answer: It is a large body of water of tourist interest.
+
+Question 30: What made the author deeply sad?
+Generated Answer: The hopeless patients in the hospital.
+Options: ['The poor food for the patients.', 'The sight he saw in the hospital.', 'The hopeless patients in the hospital.', 'The bad service of the hospital.']
+True Answer: The sight he saw in the hospital.
+
+Question 31: What's people's excuse for not visiting the old?
+Generated Answer: They usually travel abroad.
+Options: ['They are too busy.', "They can't afford it.", 'They live too far away.', 'They usually travel abroad.']
+True Answer: They are too busy.
+
+Question 32: What can we learn from the passage?
+Generated Answer: Time will tell the truth.
+Options: ['Time will tell the truth.', 'People are afraid of being old.', 'A doctor is important to old people.', 'Respecting elderly people is a good tradition.']
+True Answer: People are afraid of being old.
+
+Question 33: As a volunteer, only when you grow old enough can you   _  .
+Generated Answer: give advice to others
+Options: ['plant trees on hills', 'drive the elderly to church', 'give advice to others', 'help out in local libraries']
+True Answer: drive the elderly to church
+
+Question 34: It can be inferred from the passage that to be a volunteer,   _  .
+Generated Answer: you can do experiments
+Options: ['you can do experiments', 'you must be very strong', 'you need to work very long', 'you can get something valuable']
+True Answer: you can get something valuable
+
+Question 35: What's the best title of the passage?
+Generated Answer: How to hunt for jobs
+Options: ['How to hunt for jobs', 'Volunteer service in the west', 'How to make friends', 'How to work with animals']
+True Answer: Volunteer service in the west
+
+Question 36: If you want to have a good memory,    _   .
+Generated Answer: you should make a conscious effort to practice and exercise
+Options: ['you should ask someone else to help you to remember things', 'you should make a conscious effort to practice and exercise', 'you should never stop learning', 'you should try hard to remember things']
+True Answer: you should make a conscious effort to practice and exercise
+
+Question 37: In the passage, the writer seems to tell us    _   .
+Generated Answer: the ways to protect yourself from memory "tricks"
+Options: ['forgetting things is serious and dangerous', 'always forgetting things is understandable', 'forgetting things at times is natural', 'the ways to protect yourself from memory "tricks"']
+True Answer: forgetting things at times is natural
+
+Question 38: The best title for this passage is"   _   ".
+Generated Answer: The Danger of Forgetfulness and Absent-mindedness
+Options: ['How to Get a Good Memory', "Tricks' of Memory", 'The Danger of Forgetfulness and Absent-mindedness', 'Get Rid of Absent-mindedness']
+True Answer: Tricks' of Memory
+
+Question 39: The author's suggestion can help  _  .
+Generated Answer: people solve emotional problems
+Options: ['people solve emotional problems', "draw people's attention to the evening news", 'college students get along well with others', 'develop strong neighborhood relationships']
+True Answer: people solve emotional problems
+
+Question 40: According to the text, good books   _  .
+Generated Answer: offer as much knowledge as TV does
+Options: ['offer as much knowledge as TV does', 'are more entertaining than TV', 'should be made into films', 'cannot be found easily']
+True Answer: are more entertaining than TV
+
+Question 41: In the author's opinion, life without TV  _  .
+Generated Answer: will be accepted by more people
+Options: ["is not good for children's imagination", 'will be accepted by more people', 'used to be a lot of fun', 'is not worth living']
+True Answer: used to be a lot of fun
+
+Question 42: What would be the best title for the text?
+Generated Answer: Saying goodbye to television
+Options: ['The future of television', 'Turning off TV: a quiet hour', 'Saying goodbye to television', 'Effects of television on humans']
+True Answer: Turning off TV: a quiet hour
+
+Question 43: We can learn from the beginning of the passage that   _
+Generated Answer: the disaster strengthened the author's desire to see.
+Options: ['the author lost his sight because of a car crash.', "the author wouldn't love life if the disaster didn't happen.", 'the disaster made the author appreciate what he had.', "the disaster strengthened the author's desire to see."]
+True Answer: the author lost his sight because of a car crash.
+
+Question 44: What's the most difficult thing for the author?
+Generated Answer: How to invent a successful variation of baseball.
+Options: ['How to adjust himself to reality.', 'Building up assurance that he can find his place in life.', 'Learning to manage his life alone.', 'How to invent a successful variation of baseball.']
+True Answer: Building up assurance that he can find his place in life.
+
+Question 45: According to the passage, the baseball and encouragement offered by the man   _
+Generated Answer: directly led to the invention of ground ball.
+Options: ["hurt the author's feeling.", 'gave the author a deep impression.', 'directly led to the invention of ground ball.', 'inspired the author.']
+True Answer: gave the author a deep impression.
+
+Question 46: What is the best title for the passage?
+Generated Answer: Struggle Against Difficulties
+Options: ['A Miserable Life', 'Struggle Against Difficulties', 'A Disaster Makes a Strong Person', 'An Unforgetable Experience']
+True Answer: Struggle Against Difficulties
+
+Question 47: He who considers himself to be better and more important than others is likely to  _  .
+Generated Answer: have a "common sense"
+Options: ['have his head in the clouds', 'be easy to deal with', 'have a "common sense"', 'have "a big head"']
+True Answer: have "a big head"
+
+Question 48: Which of the following expressions is similar to "down to earth"?
+Generated Answer: "daydreamer"
+Options: ['"his nose in the air"', '"go to his head"', '"both feet on the ground"', '"daydreamer"']
+True Answer: "both feet on the ground"
+
+Question 49: The passage is mainly about  _  .
+Generated Answer: some popular American expressions
+Options: ['some popular American expressions', 'how to be down to earth', 'why to be honest and open', 'how to deal with someone who is down to earth']
+True Answer: some popular American expressions
+
+Question 50: What can we learn about responsibility?
+Generated Answer: It's of secondary importance to discipline.
+Options: ["It's of secondary importance to discipline.", "It's the basic but leading quality in one's life.", 'It has the same requirements for people as discipline.', "It's the most important factor in building one's character."]
+True Answer: It's the basic but leading quality in one's life.
+
+Question 51: Those who escape from accepting responsibility    .
+Generated Answer: can miss the advantages of being a responsible person
+Options: ["can't achieve their goals in a short time", 'can benefit from not growing up in the end', 'can miss the advantages of being a responsible person', 'can avoid the burdens of unpleasant or frightening things']
+True Answer: can miss the advantages of being a responsible person
+
+Question 52: What does George Bernard Shaw's saying imply?
+Generated Answer: We should bear responsibility regardless of situations.
+Options: ['We should bear responsibility regardless of situations.', "We shouldn't owe failure to the sense of responsibility.", 'We should first step out of our present circumstances.', "We shouldn't care what kind of situations we're in."]
+True Answer: We should bear responsibility regardless of situations.
+
+Question 53: Why was the patient quite angry with the nurse and the housekeeper?
+Generated Answer: Because he found them refusing their responsibility.
+Options: ['Because he had slipped on the water by chance.', 'Because he had to mop up the water by himself.', "Because he didn't like the noise made in hospital.", 'Because he found them refusing their responsibility.']
+True Answer: Because he found them refusing their responsibility.
+
+Question 54: From the passage we know that the fastest way to travel is   _  .
+Generated Answer: by train
+Options: ['by car', 'by train', 'by plane', 'by boat']
+True Answer: by plane
+
+Question 55: If we travel by car, we can   _  .
+Generated Answer: make our own timetable
+Options: ['only stop at the destination', 'make our own timetable', 'travel to a very far place in several minutes', 'travel one thousand miles a day']
+True Answer: make our own timetable
+
+Question 56: How many ways to travel are mentioned in the passage?
+Generated Answer: Three
+Options: ['Five', 'Six', 'Three', 'Four']
+True Answer: Four
+
+Question 57: What is true about children when they play games?
+Generated Answer: They can test their personal abilities.
+Options: ['They can stop playing any time they like.', 'They can test their personal abilities.', 'They want to pick a better team.', "They don't need rules."]
+True Answer: They can stop playing any time they like.
+
+Question 58: To become a leader in a game the child has to   _  .
+Generated Answer: play well
+Options: ['play well', 'be popular among his playmates', 'be confident in himself', 'wait for his turn']
+True Answer: wait for his turn
+
+Question 59: What do we know about grown-ups?
+Generated Answer: They find children's games too easy.
+Options: ['They are not interested in games.', "They find children's games too easy.", "They don't need a reason to play games.", "They don't understand children's games."]
+True Answer: They find children's games too easy.
+
+Question 60: The writer believes that   _  .
+Generated Answer: children play games without reasons
+Options: ['children should make better rules for their games', 'children should invite grow-ups to play with them', "children's games can do them a lot of good", 'children play games without reasons']
+True Answer: children's games can do them a lot of good
+
+Question 61: Why did the three friends run across Eastern Europe?
+Generated Answer: To raise money for charity.
+Options: ['To look for a challenge.', 'To raise money for charity.', 'To experience Forrest Gump-style.', "To change people's attitudes on running."]
+True Answer: To raise money for charity.
+
+Question 62: W at can we know about Love 146?
+Generated Answer: It provides kids with medical aid.
+Options: ['It  focuses on child trafficking.', 'It has many branches in the UK.', 'It is run by Tom,  Rob and Guy.', 'It provides kids with medical aid.']
+True Answer: It  focuses on child trafficking.
+
+Question 63: Which of the following was a challenge for Tom in the run?
+Generated Answer: The tough terrain
+Options: ['The cold weather.', 'The long distance.', 'The tough terrain', 'The necessary aids.']
+True Answer: The cold weather.
+
+Question 64: What is the purpose of this text?
+Generated Answer: To solve a problem
+Options: ['To solve a problem', 'To get more people to join in.', 'To tell an interesting story.', 'To present a research result.']
+True Answer: To get more people to join in.
+
+Question 65: In the opinion of C. Barr Taylor, we should  _  .
+Generated Answer: often help those shy people
+Options: ['think positively of shyness', 'try to get rid of shyness', 'attempt to be a little shy', 'often help those shy people']
+True Answer: think positively of shyness
+
+Question 66: The passage mentions the study by Southern Illinois University just to show that  _  .
+Generated Answer: shyness can be used in social connections
+Options: ['shy people use rich facial expressions', 'shy people are good at observing others', 'shyness can be used to reduce anxiety', 'shyness can be used in social connections']
+True Answer: shy people are good at observing others
+
+Question 67: We can know from the passage that shy people  _  .
+Generated Answer: often attach much importance to others' opinions
+Options: ['are good at getting used to a new environment', "often attach much importance to others' opinions", 'hate to think a lot before taking an action', 'are good at overcoming their feeling of insecurity']
+True Answer: often attach much importance to others' opinions
+
+Question 68: The purpose of the picture and the words below are to
+Generated Answer: show the popularity of electronic devices
+Options: ['introduce a famous painting', 'show the popularity of electronic devices', 'recommend an exhibition on art', 'raise the topic to be discussed']
+True Answer: raise the topic to be discussed
+
+Question 69: According to the text, what is the author's opinion about the word "technology"?
+Generated Answer: It has different meanings in different times.
+Options: ["It has changed the way of people's everyday life.", 'It has brought great advantages and convenience to people.', 'It has different meanings in different times.', 'It includes more meanings than usually regarded.']
+True Answer: It includes more meanings than usually regarded.
+
+Question 70: According to the poll, the time people spend viewing content on electronic devices a day differs from_.
+Generated Answer: four to six hours
+Options: ['one to three hours', 'four to six hours', 'one to more than ten hours', 'seven to more than ten hours.']
+True Answer: one to more than ten hours
+
+Question 71: What is the topic of this text?
+Generated Answer: How many hours a day people spend watching content on electronic devices
+Options: ['How many hours a day people spend watching content on electronic devices', "The bad effects on people's health caused by using electronic devices too often.", "The proper time people take to use their electronic devices every day'", 'People waste too much time in watching content on electronic devices.']
+True Answer: How many hours a day people spend watching content on electronic devices
+
+Question 72: What can be learned about the horses in the Melbourne Cup?
+Generated Answer: They are chosen from ordinary horses.
+Options: ['They are all winners of a certain race.', 'They are raised and trained by joint effort.', 'They are chosen from ordinary horses.', 'Their fates are determined by their trainers.']
+True Answer: They are raised and trained by joint effort.
+
+Question 73: The racehorses are given handicaps so that   _  .
+Generated Answer: previous winners are unlikely to win
+Options: ['they will weigh the same', 'previous winners are unlikely to win', 'the race will be fair enough', 'they will be more adaptable to the race']
+True Answer: the race will be fair enough
+
+Question 74: It can be learned from the passage that   _  .
+Generated Answer: the Melbourne Cup was intended for wealthy people
+Options: ['the spectators of the Melbourne Cup must dress well', 'the Melbourne Cup was intended for wealthy people', 'the winner of the Melbourne Cup can earn a large fortune', 'the Melbourne Cup is the best-known horserace worldwide']
+True Answer: the Melbourne Cup was intended for wealthy people
+
+Question 75: The passage can most probably be found in   _  .
+Generated Answer: a health magazine
+Options: ['a sports journal', 'a business newspaper', 'an academic paper', 'a health magazine']
+True Answer: a sports journal
+
+Question 76: How are social robots different from household robots?
+Generated Answer: They can control their emotions.
+Options: ['They can control their emotions.', 'They are more like humans.', 'They do the normal housework.', 'They respond to users more slowly.']
+True Answer: They are more like humans.
+
+Question 77: What can Oshbot work as?
+Generated Answer: A language teacher.
+Options: ['A language teacher.', 'A tour guide.', 'A shop assistant.', 'A private nurse.']
+True Answer: A shop assistant.
+
+Question 78: What does the passage mainly present?
+Generated Answer: Marketing strategies for social robots.
+Options: ['A new design idea of household robots.', 'Marketing strategies for social robots.', 'Information on household robots.', 'An introduction to social robots.']
+True Answer: An introduction to social robots.
+
+Question 79: By "We should not take this privilege for granted", the writer means that   _  .
+Generated Answer: we should seize the chances the modern society offers
+Options: ['we have special right to do anything', 'it is wrong to make use of the privilege', 'knowledge is important in the digital society', 'we should seize the chances the modern society offers']
+True Answer: we should seize the chances the modern society offers
+
+Question 80: The writer's attitude toward the digital society is   _  .
+Generated Answer: negative
+Options: ['critical', 'positive', 'neutral', 'negative']
+True Answer: positive
+
+Question 81: What is Brian Tracy's lifechanging advice about?
+Generated Answer: Listening to MP3.
+Options: ['Watching TV.', 'Listening to MP3.', 'Surfing the internet.', 'Reading helpful books.']
+True Answer: Reading helpful books.
+
+Question 82: If you'd like to improve your work, you should  _   according to the writer.
+Generated Answer: read work-related books
+Options: ['read work-related books', 'become more energetic', 'improve your study', 'improve your relations']
+True Answer: read work-related books
+
+Question 83: Which is NOT true about reading an hour a day?
+Generated Answer: It will open up your mind.
+Options: ['It will open up your mind.', 'You will have about 260 hours a year to read.', 'You will read lots of books and get much useful advice.', 'It will probably bring great things and feelings into your life.']
+True Answer: You will have about 260 hours a year to read.
+
+Question 84: What should you do if you really don't have the money to read?
+Generated Answer: To download MP3 free.
+Options: ['To buy some books from amazon.com.', 'To download MP3 free.', 'To visit the public library.', 'To borrow audiobooks and listen to them.']
+True Answer: To visit the public library.
+
+Question 85: What is the writer's idea about audiobooks?
+Generated Answer: They are more useful.
+Options: ['They are more useful.', 'Listening to audiobooks is easier than reading books.', "It's dangerous to listen to audiobooks while driving or riding.", 'Audiobooks are a good solution to the problem of having no time to read.']
+True Answer: Audiobooks are a good solution to the problem of having no time to read.
+
+Question 86: How did the author feel after she picked up single skating?
+Generated Answer: Disappointed.
+Options: ['Thrilled.', 'Confident.', 'Disappointed.', 'Proud.']
+True Answer: Disappointed.
+
+Question 87: What did the author do about the man's complaint?
+Generated Answer: She asked her boss for help.
+Options: ['She told him how rude he was.', 'She gave his money back.', 'She asked her boss for help.', 'She apologized with a smile.']
+True Answer: She apologized with a smile.
+
+Question 88: The passage is mainly about  _   .
+Generated Answer: a lesson from skating
+Options: ["the author's skating life", 'a lesson from skating', "the author's first job", 'how to be a good waitress']
+True Answer: the author's first job
+
+Question 89: Bali is distinguished from the rest of Indonesia by   _  .
+Generated Answer: the family customs and traditions
+Options: ["people's tight family relationship", 'the family customs and traditions', "people's great love for religion", 'the influence of religion on their culture']
+True Answer: the influence of religion on their culture
+
+Question 90: When a person dies in Bali, it is a common practice to   _  .
+Generated Answer: celebrate the death like a great event
+Options: ['express deep sorrow at his death', 'celebrate the death like a great event', 'sing and dance joyfully in his honor', 'remember what he did in his lifetime']
+True Answer: celebrate the death like a great event
+
+Question 91: What is the text mainly about?
+Generated Answer: The tourism in Bali.
+Options: ['Balinese religion.', 'The lifestyle of Balinese.', 'Balinese culture.', 'The tourism in Bali.']
+True Answer: Balinese culture.
+
+Question 92: The author asks us to pay more attention to roses because  _  .
+Generated Answer: roses have some unknown uses
+Options: ['roses can represent love and life', 'roses are very sweet', 'we are so busy as to ignore roses', 'roses have some unknown uses']
+True Answer: roses have some unknown uses
+
+Question 93: Protein GOPO(R) found in rose hips can do all the following EXCEPT  _  .
+Generated Answer: improving sleep quality of normal people
+Options: ['protecting vulnerable cartilage', 'improving mood', 'improving sleep quality of normal people', 'improving the life of those affected by arthritis']
+True Answer: improving sleep quality of normal people
+
+Question 94: What would be the best title for the passage?
+Generated Answer: In Pain? Stop and Smell the Roses
+Options: ['In Pain? Stop and Smell the Roses', 'Roses, the Center of Praise', 'Roses, Symbol of Love and Life', 'Sorry Shakespeare, No Other Rose Could Smell as Sweet']
+True Answer: In Pain? Stop and Smell the Roses
+
+Question 95: What may be the best title for this passage?
+Generated Answer: Methods of Fire Spread Control
+Options: ['Control and Prevention of Forest Fires', 'How to Keep Ecological Balance', 'Effects of Forest Fires', 'Methods of Fire Spread Control']
+True Answer: Control and Prevention of Forest Fires
+
+Question 96: Firefighters get rid of all fuel in all area in order to   _  .
+Generated Answer: keep close monitoring of forest fires
+Options: ['keep close monitoring of forest fires', 'prevent the forest fire from occurring', 'protect the animals there', 'stop the wildfire from spreading']
+True Answer: stop the wildfire from spreading
+
+Question 97: The government arranges some controlled burns to  _  .
+Generated Answer: provide reasonable conditions for some plants'growth
+Options: ['burn the rubbish and keep the forest clean', 'help keep ecological balance of nature', 'reduce fuel buildup and limit forest fires spread', "provide reasonable conditions for some plants'growth"]
+True Answer: reduce fuel buildup and limit forest fires spread
+
+Question 98: A controlled forest fire may play a positive role because   _  .
+Generated Answer: nature keeps its balance only by wildfires
+Options: ['a new forest will appear soon', 'it promotes the development of some seeds', 'nature keeps its balance only by wildfires', 'it makes the trees grow faster than before']
+True Answer: it promotes the development of some seeds
+
+Question 99: Why did Amanda feel regretful after the competition?
+Generated Answer: Because she dropped her ribbon suddenly.
+Options: ["Because she wasn't admitted to the club.", 'Because she dropped her ribbon suddenly.', 'Because she broke the rule of the competition.', "Because she didn't try her best to compete."]
+True Answer: Because she didn't try her best to compete.
+
+Exact Match Score: 29.00%
